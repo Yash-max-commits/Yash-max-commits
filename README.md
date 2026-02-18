@@ -1,6 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on Sabpure Pvt. Ltd as Full Stack Engineer<br>
-Previously, I was in TechSharthi Consultancy Service as Software Enginner Intern<br>
+Previously, I was in TechSharthi Consultancy Services as Software Enginner Intern.<br>
+
 
 
 # 💻 Tech Stack:
